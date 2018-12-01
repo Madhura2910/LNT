@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 46D5-E7F4
+
+ Directory of C:\Users\vshadmin\Desktop\DemoGIT
+
+01-12-2018  13:12    <DIR>          .
+01-12-2018  13:12    <DIR>          ..
+01-12-2018  13:03               356 data.txt
+01-12-2018  13:10               405 data1.txt
+01-12-2018  13:12                 0 data2.txt
+               3 File(s)            761 bytes
+               2 Dir(s)  200,107,778,048 bytes free
